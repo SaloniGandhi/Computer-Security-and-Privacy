@@ -1,0 +1,71 @@
+.error {
+  color: red;
+}
+.form-group {
+  display: flex;
+  margin-bottom: 5px;
+}
+.form-label {
+  flex: 0 0 100px;
+}
+.form-group input {
+  flex: 1 0 0px;
+}
+.form-group textarea {
+  flex: 1 0 0px;
+}
+.login-inputs {
+  width: 330px;
+}
+.login-inputs input {
+  width: 100%;
+}
+.navbar {
+  width: 360px;
+  display: flex;
+  justify-content: space-between
+}
+.navbar-logout-button {
+  display:inline-block;
+  margin-left: 20px;
+}
+.profile-container {
+  border: 1px solid gray;
+  margin-top: 30px;
+  padding: 10px;
+  width: 340px;
+}
+.profile-header {
+  margin: 0;
+}
+.payment-form {
+  border: 1px solid gray;
+  margin-top: 20px;
+  padding: 10px;
+  width: 340px;
+}
+.payment-header {
+  margin-top: 0;
+}
+.form-button {
+  margin-top: 10px;
+}
+.aboutme-form {
+  border: 1px solid gray;
+  margin-top: 20px;
+  padding: 10px;
+  width: 340px;
+}
+.aboutme-header {
+  margin-top: 0;
+}
+.admin-tools {
+  border: 1px solid blue;
+  margin-top: 20px;
+  padding: 10px;
+  width: 340px;
+}
+.admin-tools-header {
+  margin-top: 0;
+  color: blue;
+}
